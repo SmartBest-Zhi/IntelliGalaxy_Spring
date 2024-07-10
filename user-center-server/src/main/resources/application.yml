@@ -1,17 +1,6 @@
 server:
   port: 50001
-
 spring:
   application:
-    name: user-center-server
-  datasource:
-    url: jdbc:mysql:///intelli_galaxy?serverTimezone=UTC
-    username: root
-    password: yczbest
-    driver-class-name: com.mysql.cj.jdbc.Driver
+    name: user-center
 
-
-eureka:
-  client:
-    service-url:
-      defaultZone: http://127.0.0.1:50000/eureka/
