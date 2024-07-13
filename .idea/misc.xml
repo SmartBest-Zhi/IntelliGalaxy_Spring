@@ -11,11 +11,13 @@
         <option value="$PROJECT_DIR$/intelli-galaxy-common/pom.xml" />
         <option value="$PROJECT_DIR$/user-center-server/pom.xml" />
         <option value="$PROJECT_DIR$/todo-server/pom.xml" />
+        <option value="$PROJECT_DIR$/galaxy-common/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Eureka_Server/pom.xml" />
+        <option value="$PROJECT_DIR$/galaxy-common/pom.xml" />
       </set>
     </option>
   </component>

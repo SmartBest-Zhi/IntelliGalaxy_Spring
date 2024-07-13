@@ -4,11 +4,18 @@
 - [x] Swagger
 - [x] Lombok 注解
 - [ ] Mybatis-Plus 生成实体
-  - https://baomidou.com/guides/new-code-generator/
+  - [x] 生成代码：https://baomidou.com/guides/new-code-generator/
+  - [ ] 多服务适配
+- [ ] 实体路径迁移
 - [ ] Authentication
+  - [ ] Spring Security
+  - [ ] Jwt
+- [x] 分页器
 - [ ] Redis 缓存
 - [ ] RabbitMQ、Kafka等消息队列
 - [ ] Nacos-Discovery 服务注册
+- [ ] 配置文件分发
+- [ ] 开发、测试、生产环境分离
 
 ### 通用组件
 - 响应封装
