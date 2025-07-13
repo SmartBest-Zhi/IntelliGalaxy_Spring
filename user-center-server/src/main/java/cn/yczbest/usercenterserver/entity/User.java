@@ -45,7 +45,7 @@ public class User extends Model<User> {
 
     @Schema(description = "角色ID")
     @TableField("role_id")
-    private String roleId;
+    private Long roleId;
 
     @Schema(description = "创建日期时间")
     @TableField("create_at")

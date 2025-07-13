@@ -18,7 +18,8 @@
 	<modules>
 		<module>user-center-server</module>
 		<module>intelli-galaxy-common</module>
-	</modules>
+        <module>code-generator</module>
+    </modules>
 
 	<url/>
 	<licenses>
